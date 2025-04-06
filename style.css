@@ -1,0 +1,27 @@
+
+body {
+    background-color: #393E46;
+  }
+.control{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+} 
+ #heading{
+    font-size: 6rem;
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn button{
+    border-radius: 10%;
+    font-size: 1.5rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 155px;
+}
