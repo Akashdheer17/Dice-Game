@@ -1,7 +1,7 @@
 # 🎲Dice-Game
 A simple and Dice Game built with HTML, CSS, and JavaScript. Click the "Roll Dice" button to see who wins!
 
-## 🚀 Demo
+## 🚀 Main UI
 
 ![image](https://github.com/user-attachments/assets/666719b2-d51f-4aee-a0b9-bb452b6eaf88)
 
